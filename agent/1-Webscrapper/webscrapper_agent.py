@@ -115,5 +115,5 @@ def summarize(url):
 # https://techcrunch.com/
 
 if __name__ == "__main__":
-    result = summarize("https://techcrunch.com/")
+    result = summarize("https://www.aajtak.in/")
     print("Summary of the news today:", result)
